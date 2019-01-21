@@ -12,5 +12,6 @@
     "phoneNumbers": [
         { "type": "home", "number": "7383627627" },
         { "type": "office", "number": "12345"}
-    ]
+    ],
+    "friends": []
 }
